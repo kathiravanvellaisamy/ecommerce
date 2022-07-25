@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Apple with Saucer Yellow",
+    "price": 250,
+    "imgUrl": "/img/Apple-with-Saucer-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple with Saucer Red",
+    "price": 245,
+    "imgUrl": "/img/Apple-with-Saucer-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bowl Pot Yellow",
+    "price": 260,
+    "imgUrl": "/img/Bowl-Pot-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bowl Pot Red",
+    "price": 270,
+    "imgUrl": "/img/Bowl-Pot-2.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "Unami Pink",
+    "price": 280,
+    "imgUrl": "/img/Unami-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Unami Blue",
+    "price": 285,
+    "imgUrl": "/img/Unami-2.jpg"
+  }
+]
